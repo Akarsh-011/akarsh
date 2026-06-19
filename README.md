@@ -1,2 +1,24 @@
-# akarsh
-Aspiring data scientist with a strong interest in data modeling, interpretation, and visualization. Passionate about uncovering insights from complex datasets and applying analytics to solve real-world problems..
+────────────────────────────────────────
+
+            👋 Hi, I'm Akarsh
+
+      Backend Developer | Python
+
+Building scalable backend applications,
+REST APIs and cloud-based solutions.
+
+────────────────────────────────────────
+
+About Me
+
+Tech Stack
+
+Featured Projects
+
+GitHub Stats
+
+Currently Learning
+
+Let's Connect
+
+────────────────────────────────────────
